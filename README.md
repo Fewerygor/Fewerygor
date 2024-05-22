@@ -42,4 +42,4 @@ Here are some ideas to get you started:
   <img href="mailto:fewerygor@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/Fewerygor/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Fewerygor/Fewerygor/blob/output/dist/github-contribution-grid-snake.svg)
