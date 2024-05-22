@@ -32,5 +32,6 @@
 </div>
 
 <picture>
+   <source media="(prefers-color-scheme: radical)" srcset="https://raw.githubusercontent.com/Fewerygor/Fewerygor/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fewerygor/Fewerygor/output/github-contribution-grid-snake.svg">
 </picture>
