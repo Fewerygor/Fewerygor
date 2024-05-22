@@ -41,3 +41,5 @@ Here are some ideas to get you started:
   <img href="https://www.linkedin.com/in/ygor-monteiro-b40566244/" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img href="mailto:fewerygor@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
+
+![Snake animation](https://github.com/Fewerygor/dist/github-contribution-grid-snake.svg)
