@@ -31,4 +31,4 @@
   <img href="mailto:fewerygor@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/Fewerygor/Fewerygor/blob/output/dist/github-contribution-grid-snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fewerygor/Fewerygor/output/github-contribution-grid-snake.svg">
