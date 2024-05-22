@@ -31,7 +31,7 @@
   <img href="mailto:fewerygor@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
-<picture>
+<div>
    <source media="(prefers-color-scheme: radical)" srcset="https://raw.githubusercontent.com/Fewerygor/Fewerygor/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fewerygor/Fewerygor/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
